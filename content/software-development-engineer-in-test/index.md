@@ -1,6 +1,6 @@
 ---
-title: "The SDET: Future of Testing"
-date: "2021-03-03"
+title: "The SDET - Future of Testing"
+date: "2021-03-04"
 coverImage: "cover.png"
 author: "Rakesh Pareek"
 tags: ["SDET", "SDET vs Automation Engineer"]
@@ -63,5 +63,7 @@ Software Testing is an important phase in the development cycle and it takes lot
 -   Performing high-level debugging
 -   Prepare & manage test reports and communicate with the team.
 -   Able to build different test scenarios and acceptance tests.
+
+
 
 **Conclusion:** SDET is a tester or automation engineer with development experience who has exposure to testing techniques, automation frameworks, and software development & design techniques. SDET builds test automation tools and works with the development team and covers the code by unit tests and ultimately it results in a quality software delivery
