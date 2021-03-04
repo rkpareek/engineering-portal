@@ -11,7 +11,7 @@ description: "A brief overview about the requirement of SDET role in the softwar
 
 > Presently several organizations are demanding such SDET professionals who can participate in the development of the software and also in the testing of the software developed.
 
-![SDET role in Software development cycle](sdet_role.png)
+
 <p align="center">
   <img width="480" height="480" src="./sdet_role.png">
 </p>
